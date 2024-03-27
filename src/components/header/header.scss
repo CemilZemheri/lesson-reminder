@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  gap: 1rem;
+  &-image {
+    width: 200px;
+    padding: 1rem;
+  }
+  &-h1 {
+    font-weight: 400;
+    font-size:xx-large;
+  }
+}
